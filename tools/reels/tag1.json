@@ -1,0 +1,35 @@
+{
+  "handle": "@feierabend.cashflow",
+  "duration": 12,
+  "background": { "type": "gradient" },
+  "segments": [
+    {
+      "start": 0, "end": 3,
+      "lines": [
+        { "text": "STELL DIR VOR:", "color": "white" }
+      ]
+    },
+    {
+      "start": 3, "end": 6.2,
+      "lines": [
+        { "text": "IN 1 JAHR HÄTTEST DU", "color": "white" },
+        { "text": "HEUTE", "color": "gold" },
+        { "text": "ANGEFANGEN", "color": "white" }
+      ]
+    },
+    {
+      "start": 6.2, "end": 9,
+      "lines": [
+        { "text": "DER BESTE ZEITPUNKT", "color": "white" },
+        { "text": "WAR GESTERN.", "color": "white" }
+      ]
+    },
+    {
+      "start": 9, "end": 12,
+      "lines": [
+        { "text": "DER ZWEITBESTE", "color": "white" },
+        { "text": "IST JETZT.", "color": "gold" }
+      ]
+    }
+  ]
+}
